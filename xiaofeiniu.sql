@@ -9,4 +9,4 @@ CREATE TABLE xfn_admin(
   aname VARCHAR(32) UNIQUE,
   apwd VARCHAR(64)
 );
-INSERT INTO xfn_admin VALUES(NULL,'admin','123456'),(NULL,'boss','999999');
+INSERT INTO xfn_admin VALUES(NULL,'admin','123456'),(NULL,'boss','666666');
