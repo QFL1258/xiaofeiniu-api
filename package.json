@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/web1808/xiaofeiniu-api.git"
+    "url": "git+https://github.com/QFL1258/xiaofeiniu-api.git"
   },
   "keywords": [
     "小肥牛",
@@ -18,12 +18,12 @@
     "扫码",
     "点餐"
   ],
-  "author": "Li Wenhua",
+  "author": "QFL",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/web1808/xiaofeiniu-api/issues"
+    "url": "https://github.com/QFL1258/xiaofeiniu-api/issues"
   },
-  "homepage": "https://github.com/web1808/xiaofeiniu-api#readme",
+  "homepage": "https://github.com/QFL1258/xiaofeiniu-api#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
