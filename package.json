@@ -1,7 +1,7 @@
 {
   "name": "xiaofeiniu-api",
   "version": "1.0.0",
-  "description": "小肥牛扫码点餐数据API子系统",
+  "description": "小绵羊扫码点餐数据API子系统",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,12 +13,12 @@
     "url": "git+https://github.com/QFL1258/xiaofeiniu-api.git"
   },
   "keywords": [
-    "小肥牛",
-    "xiaofeiniu",
+    "小绵羊",
+    "xiaomianyang",
     "扫码",
     "点餐"
   ],
-  "author": "Li Wenhua",
+  "author": "QFL",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/QFL1258/xiaofeiniu-api/issues"
